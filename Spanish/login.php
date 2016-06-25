@@ -2,6 +2,8 @@
 
 $lang_login = array(
 
+'Login errors' => 'Error al iniciar sesión',
+'Login errors info' => 'Se necesita corregir el siguiente error antes de que puedas iniciar sesión:',
 'Wrong user/pass' => 'Nombre de usuario y/o contraseña incorrecta.',
 'Forgotten pass' => '¿Olvidaste tu contraseña?',
 'Login redirect' => 'Sesión iniciada exitosamente. Redirigiendo…',

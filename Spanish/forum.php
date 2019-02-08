@@ -2,15 +2,15 @@
 
 $lang_forum = array(
 
-'Post topic' => 'Publicar nuevo tema',
-'Views' => 'Vistas',
-'Moved' => 'Movido:',
-'Sticky' => 'Pegado:',
-'Closed' => 'Cerrado:',
-'Empty forum' => 'El foro está vacío.',
-'Mod controls' => 'Controles de moderador',
-'Is subscribed' => 'Ya estás suscrito a este foro',
-'Unsubscribe' => 'Cancelar la suscripción',
-'Subscribe' => 'Suscribirse a este foro',
+'Post topic' => 'Post new topic',
+'Views' => 'Views',
+'Moved' => 'Moved:',
+'Sticky' => 'Sticky:',
+'Closed' => 'Closed:',
+'Empty forum' => 'Forum is empty.',
+'Mod controls' => 'Moderator controls',
+'Is subscribed' => 'You are currently subscribed to this forum',
+'Unsubscribe' => 'Unsubscribe',
+'Subscribe' => 'Subscribe to this forum',
 
 );

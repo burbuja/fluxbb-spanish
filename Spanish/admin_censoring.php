@@ -2,19 +2,19 @@
 
 $lang_admin_censoring = array(
 
-'Must enter word message' => 'Debes ingresar una palabra a censurar.',
-'Word updated redirect' => 'Palabra censurada actualizada. Redirigiendo…',
-'Word added redirect' => 'Se agregaron las palabras a censurar. Redirigiendo…',
-'Word removed redirect' => 'Palabra censurada quitada. Redirigiendo…',
-'Censoring head' => 'Censura',
-'Add word subhead' => 'Agregar palabra',
-'Add word info' => 'Ingresa una palabra que quieras censurar y el texto de reemplazo para esta palabra. Se aceptan comodines (ej. *algo* podría coincidir con galgo y algoritmo). Las palabras censuradas también afectan a los nombres de usuarios. Los nuevos usuarios no serán capaces de registrarse con nombres de usuario conteniendo alguna de las palabras censuradas. La búsqueda no es sensible a mayúsculas y minúsculas.',
-'Censoring enabled' => '<strong>La censura está habilitada en %s.</strong>',
-'Censoring disabled' => '<strong>La censura está desactivada en las %s.</strong>',
-'Censored word label' => 'Palabra censurada',
-'Replacement label' => 'Palabra(s) de reemplazo',
-'Action label' => 'Acción',
-'Edit remove subhead' => 'Editar o quitar palabras',
-'No words in list' => 'No hay palabras a censurar en la lista.',
+'Must enter word message' => 'You must enter a word to censor.',
+'Word updated redirect' => 'Censor word updated. Redirecting …',
+'Word added redirect' => 'Censor word added. Redirecting …',
+'Word removed redirect' => 'Censor word removed. Redirecting …',
+'Censoring head' => 'Censoring',
+'Add word subhead' => 'Add word',
+'Add word info' => 'Enter a word that you want to censor and the replacement text for this word. Wildcards are accepted (i.e. *some* would match somewhere and lonesome). Censor words also affect usernames. New users will not be able to register with usernames containing any censored words. The search is case insensitive.',
+'Censoring enabled' => '<strong>Censoring is enabled in %s.</strong>',
+'Censoring disabled' => '<strong>Censoring is disabled in %s.</strong>',
+'Censored word label' => 'Censored word',
+'Replacement label' => 'Replacement word(s)',
+'Action label' => 'Action',
+'Edit remove subhead' => 'Edit or remove words',
+'No words in list' => 'No censor words in list.',
 
 );

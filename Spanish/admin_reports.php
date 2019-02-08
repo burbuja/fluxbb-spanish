@@ -2,19 +2,19 @@
 
 $lang_admin_reports = array(
 
-'Report zapped redirect' => 'Informe marcado como leído. Redirigiendo…',
-'New reports head' => 'Informes nuevos',
-'Deleted user' => 'Usuario eliminado',
-'Deleted' => 'Eliminado',
-'Post ID' => 'Publicación N°%s',
-'Report subhead' => 'Reportado %s',
-'Reported by' => 'Informado por %s',
-'Reason' => 'Razón',
-'Zap' => 'Marcar como leído',
-'No new reports' => 'No hay nuevos informes.',
-'Last 10 head' => 'Últimos 10 informes leídos',
+'Report zapped redirect' => 'Report marked as read. Redirecting …',
+'New reports head' => 'New reports',
+'Deleted user' => 'Deleted user',
+'Deleted' => 'Deleted',
+'Post ID' => 'Post #%s',
+'Report subhead' => 'Reported %s',
+'Reported by' => 'Reported by %s',
+'Reason' => 'Reason',
+'Zap' => 'Mark as read',
+'No new reports' => 'There are no new reports.',
+'Last 10 head' => '10 last read reports',
 'NA' => 'N/A',
-'Zapped subhead' => 'Marcado como leído %s por %s',
-'No zapped reports' => 'No hay informes leídos.',
+'Zapped subhead' => 'Marked as read %s by %s',
+'No zapped reports' => 'There are no read reports.',
 
 );
